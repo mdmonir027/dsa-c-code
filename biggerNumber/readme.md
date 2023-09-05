@@ -1,6 +1,4 @@
-# Draft
-
-Algorithm to compare three number;
+# Algorithm to compare three number;
 
 1. Start
 2. Input num1 ,num2 ,num3
@@ -19,6 +17,6 @@ Algorithm to compare three number;
 4. Output output
 5. End
 
-Flowchart
+# Flowchart to compare three number
 
 ![bigger number flowchart.png](bigger_number_flowchart.png)
