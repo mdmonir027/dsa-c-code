@@ -21,4 +21,4 @@ Algorithm to compare three number;
 
 Flowchart
 
-![bigger number flowchart.png](/bigger_number_flowchart.png)
+![bigger number flowchart.png](bigger_number_flowchart.png)
